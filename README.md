@@ -1,7 +1,7 @@
 # hello-world
 learning setup for git hub 
 
-wanter to initialized commited. going to edit more line is you are agreed or not.
+Final Commit changes by README.
 
 Thanks and Regards,
 Satish Kumar 
