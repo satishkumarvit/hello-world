@@ -1,8 +1,8 @@
 # hello-world
 learning setup for git hub 
 
-wanter to initial commit. going to do so.
+wanter to initialized commited. going to edit more line is you are agreed or not.
 
 Thanks and Regards,
-Satish Kumar Kesharwani
+Satish Kumar 
 Mob-9921476565
